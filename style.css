@@ -2,6 +2,20 @@
 {
     display: flex;
     flex-wrap: wrap;
-    height: 500px;
-    width: 700px;
+    align-items: center;
+    justify-content: center;
+    width: 960px;
+    margin: 0 auto;
+}
+
+button
+{
+    font-size: 16px;
+    font-weight: bold;
+    color: aliceblue;
+    background: blueviolet;
+    border: 1px solid blueviolet;
+    border-radius: 6px;
+    margin-bottom: 50px;
+    padding: 8px 16px;
 }
